@@ -37,6 +37,7 @@ namespace Tyuiu.BorodulinMS.Sprint4.Review.V3
 
             Console.WriteLine("\nМассив:");
             for (int i = 0; i < n; i++)
+
             {
                 for (int j = 0; j < m; j++)
                 {
